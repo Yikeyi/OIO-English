@@ -1,0 +1,28 @@
+# Android
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# App build
+oio_english/app/build/
+oio_english/app/release/
+
+# Audio & Backup
+*_backup_*.xlsx
+oio_backup_*.xlsx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Flutter (removed)
+flutter_app/

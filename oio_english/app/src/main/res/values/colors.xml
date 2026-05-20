@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="coral">#FFFF8A80</color>
+    <color name="lavender">#FFB39DDB</color>
+    <color name="mint">#FF80CBC4</color>
+    <color name="cream">#FFFFF8F0</color>
+    <color name="warm_dark">#FF3E2723</color>
+    <color name="success_green">#FFA5D6A7</color>
+    <color name="card_white">#FFFFFFFF</color>
+</resources>
