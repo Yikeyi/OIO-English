@@ -1,28 +1,32 @@
 # Android
 *.iml
 .gradle/
-/local.properties
-/.idea/
-.DS_Store
-/build/
-/captures
+.idea/
+.kotlin/
+local.properties
+captures/
 .externalNativeBuild/
 .cxx/
-local.properties
+
+# Build output
+/build/
 
 # App build
 oio_english/app/build/
 oio_english/app/release/
 
-# Audio & Backup
+# Temp files
+*.bat
+exclude.txt
+nul
+
+# Backup
 *_backup_*.xlsx
-oio_backup_*.xlsx
 
 # IDE
 .vscode/
-.idea/
 *.swp
 *.swo
 
-# Flutter (removed)
+# Removed
 flutter_app/
